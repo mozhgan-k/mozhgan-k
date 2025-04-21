@@ -14,6 +14,8 @@ I love coding and learning new things, however I believe JavaScript is the Boss 
   <img src="https://img.shields.io/badge/typescript-0747a6?style=for-the-badge&logo=typescript&logoColor=white" alt="typescript"/>
   <img src="https://img.shields.io/badge/vuejs-2EC866?style=for-the-badge&logo=vue.js&logoColor=white" alt="vue.js"/>
   <img src="https://img.shields.io/badge/nuxtjs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="nuxt.js"/>
+  <img src="https://img.shields.io/badge/reactjs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="react.js"/>
+  <img src="https://img.shields.io/badge/nextjs-2EC866?style=for-the-badge&logo=nuxt.js&logoColor=white" alt="next.js"/>
 </div>
 <br></br>
 
