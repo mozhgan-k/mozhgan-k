@@ -4,7 +4,7 @@
 
 My name is Mozhgan, and I am a frontend developer from Iran.
 <br>
-I love coding and learning new things, however I believe JavaScript is the Boss :relaxed:
+I love coding and learning new things :relaxed:
 
 ### <img align="center" src="https://user-images.githubusercontent.com/74038190/212284087-bbe7e430-757e-4901-90bf-4cd2ce3e1852.gif" width="30"> My Skills :
 <div id="badges">
